@@ -1,4 +1,5 @@
 # Custom-Training-YoloV5
+<img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/splash.jpg"></img>
 
 This is my repo for training custom dataset in YoloV5. I have prepared and annotate my dataset in labelimg in yolo format. Here is the link of the Database:
 https://drive.google.com/drive/folders/1L54ph9lehRnGZ96iJn32kRhMRBQzYzYX?usp=sharing <br>
